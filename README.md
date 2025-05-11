@@ -4,7 +4,7 @@
 The goal of this project is to develop a predictive model for user ratings and evaluate the usefulness of reviews in recommending relevant items to users. By leveraging collaborative filtering techniques, the objective is to personalize the user experience with tailored recommendations based on past interactions and preferences.
 
 ## Dataset
-- Source: [Amazon Reviews Dataset (5-core, Electronics)](https://nijianmo.github.io/amazon/index.html)
+- Source: [Amazon Reviews Dataset (5-core, Electronics)]
 - The dataset includes user reviews, ratings, and product metadata.
 - Product metadata is separated into a dedicated dataframe for additional context.
 
