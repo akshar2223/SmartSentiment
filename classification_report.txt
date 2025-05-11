@@ -1,0 +1,56 @@
+logistic :
+
+precision    recall  f1-score   support
+
+     Average       0.46      0.17      0.25      9951
+         Bad       0.72      0.67      0.70     14187
+        Good       0.88      0.97      0.92     76275
+
+    accuracy                           0.85    100413
+   macro avg       0.69      0.60      0.62    100413
+weighted avg       0.82      0.85      0.82    100413
+
+
+
+decision : 
+
+precision    recall  f1-score   support
+
+     Average       0.26      0.23      0.24      9951
+         Bad       0.51      0.49      0.50     14187
+        Good       0.86      0.88      0.87     76275
+
+    accuracy                           0.76    100413
+   macro avg       0.54      0.54      0.54    100413
+weighted avg       0.75      0.76      0.76    100413
+
+
+
+random forest:
+
+precision    recall  f1-score   support
+
+     Average       0.76      0.07      0.13      9952
+         Bad       0.73      0.37      0.49     14190
+        Good       0.81      0.99      0.89     76302
+
+    accuracy                           0.81    100444
+   macro avg       0.77      0.47      0.50    100444
+weighted avg       0.80      0.81      0.76    100444
+
+
+knn:
+
+precision    recall  f1-score   support
+
+     Average       0.26      0.16      0.20      9952
+         Bad       0.57      0.39      0.46     14190
+        Good       0.84      0.93      0.88     76302
+
+    accuracy                           0.78    100444
+   macro avg       0.55      0.49      0.51    100444
+weighted avg       0.74      0.78      0.76    100444
+
+sgd:
+
+
