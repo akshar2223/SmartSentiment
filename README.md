@@ -1,4 +1,4 @@
-# Amazon Electronics Product Reviews Analysis
+# SmartSentiment: Amazon Electronics Product Reviews Analysis
 
 ## Introduction
 The goal of this project is to develop a predictive model for user ratings and evaluate the usefulness of reviews in recommending relevant items to users. By leveraging collaborative filtering techniques, the objective is to personalize the user experience with tailored recommendations based on past interactions and preferences.
